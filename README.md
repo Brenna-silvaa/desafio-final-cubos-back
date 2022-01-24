@@ -5,7 +5,7 @@ Este repositório deverá servir de base para ser realizado o fork para desenvol
 
 A versão final do código de cada sprint deverá estar na branch principal do repositório e sim, a cada semana acumulará as alterações das sprints, portanto a segunda sobrescrevendo a primeira e assim por diante.
 
-#Linguagem utilizada:
+# Linguagem utilizada:
 
 - Node.js
 - banco de dados: PostgresSQL
