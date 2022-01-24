@@ -14,8 +14,6 @@ A versão final do código de cada sprint deverá estar na branch principal do r
 
 ### projeto desenvolvido em grupo com a utilização do clickup para a divisão de tarefas e foi realizado em 3 sprints 
 
----
 
-**URL da aplicação funcionando**: https://desafio-m05-6codam.netlify.app/
 
 
